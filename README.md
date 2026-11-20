@@ -1,33 +1,34 @@
-
 # Hi, I'm Herbert 👋
 
-Founder of PhoriTech 🚀
+💻 Software Engineering Student at GCTU
 
-## About Me
+🚀 Founder of PhoriTech
 
-🎓 Software Engineering Student at GCTU
+🌱 Currently learning:
+- JavaScript
+- React
+- Python
+- C++
 
-💻 Web Developer
+🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- React
 
-🎨 UI/UX Designer
+📌 Current Project
+ Joven Kid Needs - Premium Kids Fashion E-commerce Website
 
-🚀 Building digital solutions through PhoriTech
+📫 Connect With Me
+- Email: herbertofori29@gmail.com
+- LinkedIn: coming soon...
 
-## Tech Stack
+⚡ Fun Fact
+I enjoy building web applications and learning new technologies.
 
-HTML
-CSS
-JavaScript
-React
-Git
-GitHub
+## GitHub Stats
 
-## Current Projects
+https://github-readme-stats.vercel.app/api?username=alpha-bert2&show_icons=true&theme=tokyonight
 
-🔹 PhoriTech Website
-🔹 Recipe Web app
-🔹 Joven kids needs (e-commerce)
-
-## Philosophy
-
-Build • Code • Innovate
+https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-bert2&layout=compact&theme=tokyonight
